@@ -3,7 +3,7 @@
 This project is a closed-loop PI speed controller for a DC motor. It uses an MSP430 microcontroller to generate PWM signals and a custom-designed H-Bridge PCB to drive the motor. Varying loads were added to a second generator motor for different current draws and to monitor the PI controllers response.
 
 ### Project Showcase
-![Photo of the final custom-designed PCB and full assembly](images/Final-Setup.jpg)
+![Photo of the final custom-designed PCB and full assembly](images/Final-Setup.jpeg)
 
 
 ### Key Features
